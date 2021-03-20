@@ -97,7 +97,7 @@ jaraco.itertools==5.0.0
 jdcal==1.4.1
 jedi==0.17.1
 jieba3k==0.35.1
-Jinja2==2.11.1
+Jinja2==2.11.3
 jmespath==0.10.0
 joblib==0.14.1
 jplephem==2.14
