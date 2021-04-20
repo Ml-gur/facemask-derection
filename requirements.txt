@@ -147,7 +147,7 @@ preshed==3.0.2
 prompt-toolkit==3.0.5
 protobuf==3.12.2
 psutil==5.7.0
-py==1.8.1
+py==1.10.0
 py-bcrypt==0.4
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
