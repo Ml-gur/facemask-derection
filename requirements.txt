@@ -225,7 +225,7 @@ traitlets==4.3.3
 ttkthemes==3.0.0
 tzlocal==2.0.0
 uritemplate==3.0.1
-urllib3==1.25.8
+urllib3==1.26.5
 user-agent==0.1.9
 virtualenv==20.0.10
 wasabi==0.6.0
