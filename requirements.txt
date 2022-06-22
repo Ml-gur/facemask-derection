@@ -124,7 +124,7 @@ murmurhash==1.0.2
 mutagen==1.44.0
 newspaper3k==0.2.8
 nltk==3.4.5
-numpy==1.18.2
+numpy==1.22.0
 oauthlib==3.1.0
 opencv-contrib-python==4.2.0.34
 opencv-python==4.2.0.34
